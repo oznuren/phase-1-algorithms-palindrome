@@ -12,6 +12,7 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
+  Created a variable to hold the reversed word and reversed the word using the split method and join method to create a string of the reversed word and then compared the reversed word to the original word using the === operator.
 */
 
 // You can run `node index.js` to view these console logs
